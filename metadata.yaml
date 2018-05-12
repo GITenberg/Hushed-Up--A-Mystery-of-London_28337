@@ -1,0 +1,38 @@
+_repo: Hushed-Up--A-Mystery-of-London_28337
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Tufnell Le
+    - Queux, William Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: Cover; Title Page; Copyright; CONTENTS; PROLOGUE; I; II; THE STORY OF
+  OWEN BIDDULPH; CHAPTER ONE; CHAPTER TWO; CHAPTER THREE; CHAPTER FOUR; CHAPTER FIVE;
+  CHAPTER SIX; CHAPTER SEVEN; CHAPTER EIGHT; CHAPTER NINE; CHAPTER TEN; CHAPTER ELEVEN;
+  CHAPTER TWELVE; CHAPTER THIRTEEN; CHAPTER FOURTEEN; CHAPTER FIFTEEN; CHAPTER SIXTEEN;
+  CHAPTER SEVENTEEN; CHAPTER EIGHTEEN; CHAPTER NINETEEN; CHAPTER TWENTY; CHAPTER TWENTY-ONE;
+  CHAPTER TWENTY-TWO; CHAPTER TWENTY-THREE; CHAPTER TWENTY-FOUR; CHAPTER TWENTY-FIVE;
+  CHAPTER TWENTY-SIX; CHAPTER TWENTY-SEVEN; CHAPTER TWENTY-EIGHT; CHAPTER TWENTY-NINE
+gutenberg_issued: '2009-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28337'
+  lccn: '11023407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+title: Hushed Up! A Mystery of London
+url: http://www.gutenberg.org/ebooks/28337
